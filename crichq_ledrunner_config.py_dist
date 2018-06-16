@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+
+# Input your CricHQ API key
+crichq_token = 'your api token here''
